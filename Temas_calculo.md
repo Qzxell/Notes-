@@ -1,0 +1,16 @@
+- Funcion gamma y bettas || maso
+- Criterios de convergencia y Integrales Impropias
+- Areas de Regiones planas y cordenadas cartesianas parametricas y polares
+- Volumen de un solido de revolucion : disco, capas cilindricas.
+- Formulas de Transformacion
+- Graficas de cordenadas polares
+- Longitud de arco de una curva en coordenas cartesianas polares y parametricas
+- Areas con cordenadas polares y parametricas
+- Centro de Masa de un sistema de particulas, Centroide, Teorema de Pappus-Guldin
+- Aplicacion: Trabajo, fuerza por un liquido
+## 20-11-24
+- Sucesiones. Limite
+    - Propiedades, Monotonia y convergencia
+    - series numericas
+- Series Notables: geometrica, telescopica, la serie p. Series de terminos no negativos.
+- Criterios de convergencia
