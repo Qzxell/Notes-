@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invariant Subspaces.md",
+                "file": "Lineal/Invariant Subspaces.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,9 +165,11 @@
   },
   "active": "902ba79c3d84516b",
   "lastOpenFiles": [
+    "Calculo",
+    "Lineal",
     "Invariant Subspaces.md~",
     "Invariant_Subspaces.md",
-    "Invariant Subspaces.md",
+    "Lineal/Invariant Subspaces.md",
     "Invariant_Subspaces.md~",
     "4913"
   ]
