@@ -1,4 +1,4 @@
-# Restriccion y Operador Cociente  
+ # Restriccion y Operador Cociente  
 
 Si $T \in \mathcal{L}(V)$ y $U$ es un subespacio Invariante de $V$ bajo T, entonces $U$ determina otros dos operadores $T|_{U} \in \mathcal{L}(U)$ y $T/U \in \mathcal{L}(V/U)$ in a natural way as defined below
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invariant Subspaces.md",
+                "file": "Books/Resumen de Ultralearnig.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invariant Subspaces"
+              "title": "Resumen de Ultralearnig"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "44fe86ba2fbed787",
@@ -165,10 +164,37 @@
   },
   "active": "902ba79c3d84516b",
   "lastOpenFiles": [
-    "Invariant Subspaces.md~",
-    "Invariant_Subspaces.md",
-    "Invariant Subspaces.md",
-    "Invariant_Subspaces.md~",
-    "4913"
+    "Books/Como eliminar un mal habito.md",
+    "Books/lecter.md",
+    "Books/Deja de ser tu.md",
+    "Proyects/GOICPC/Metacognition_of_problems/1985E.md",
+    "Proyects/GOICPC/Binary Exponentiation.md",
+    "Proyects/GOICPC/topics.md",
+    "Proyects/GOICPC/method of practice ThemeCP.md",
+    "Proyects/GOICPC/Dynamic Programing.md",
+    "Proyects/Cybersegurity/Intro.md",
+    "Proyects/Cybersegurity/How install Arch Linux with archinstall(EFI).md",
+    "University/2024-2/Calculus_Intergal/Temas_calculo.md",
+    "Proyects/ctic/Proyecto.md",
+    "University/2024-2/Calculus_Intergal/tarea_pd1.md",
+    "University/2024-2/Calculus_Intergal/Integrales.md",
+    "University/2024-2/PhysicII/cuerpo_rigido2.md",
+    "University/2024-2/PhysicII/Cuerpo rigido.md",
+    "University/2024-2/lineal-physics/temas_Lineal.md",
+    "University/2024-2/lineal-physics/Invariant Subspaces.md",
+    "University/2024-2/lineal-physics/estructuras-algebraicas.md",
+    "manim/sine.py",
+    "manim/para.py",
+    "manim/dfs.py",
+    "manim",
+    "Books/Resumen de Ultralearnig.md",
+    "Books",
+    "Proyects/GOICPC/Codesc++/temp.cpp",
+    "Proyects/GOICPC/Codesc++/per.cpp",
+    "Proyects/GOICPC/Codesc++/p.cpp",
+    "Proyects/GOICPC/Codesc++/ou",
+    "Proyects/GOICPC/Codesc++/in",
+    "Proyects/GOICPC/Principles_and_Techniques_in_Combinatorics.md",
+    "Invariant_Subspaces.md"
   ]
 }
