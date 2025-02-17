@@ -3,6 +3,6 @@ Editorial: Gredos
 Autor: Imanuel Kant
 Estado: ""
 Tipo: Ensayo
-Comprado?: true
+Comprado?: false
 Prioridad: 3
 ---
