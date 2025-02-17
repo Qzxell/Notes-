@@ -1,4 +1,5 @@
 ---
 Autor: Cortazar
-Estado: No comenzado
+Estado: ""
+Tipo: Novela
 ---

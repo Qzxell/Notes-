@@ -39,7 +39,7 @@ function check_error() {
 }
 function dump_webpage() {
     echo -e "\n> Fetching sample cases from ${ORANGE}$url${NC}\n"
-    local webPageData=$(curl -L $url)
+    local webPageData=$(curl  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" $url)
     check_error "Failure occurred while loading web pages!"
 
     neededData=$(echo "$webPageData" | tr '\n' '|' | grep -o 'Example.*</pre>' | sed 's/<[^>]*>/\n/g' | sed 's/Examples//g' | sed 's/Example//g' | sed 's/Input/=====/g' | sed 's/Output/=====/g' | tr -s '\n' '|')

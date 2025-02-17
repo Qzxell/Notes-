@@ -1,6 +1,6 @@
 ---
 Autor: Ozamu Dazai
-Estado: No comenzado
+Estado: terminado
 Tipo: Novela
 Comprado?: true
 Prioridad: 3

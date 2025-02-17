@@ -1,4 +1,5 @@
 ---
 Autor: Mario Vargas Llosa
-Estado: No comenzado
+Estado: ""
+Tipo: Novela
 ---

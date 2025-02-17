@@ -1,7 +1,7 @@
 ---
 Editorial: Gredos
 Autor: Imanuel Kant
-Estado: No comenzado
+Estado: ""
 Tipo: Ensayo
 Comprado?: true
 Prioridad: 3

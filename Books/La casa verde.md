@@ -1,6 +1,6 @@
 ---
 Autor: Mario Vargas Llosa
-Estado: No comenzado
+Estado: ""
 Tipo: Novela
 Comprado?: true
 Prioridad: 1

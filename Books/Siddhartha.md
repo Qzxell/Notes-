@@ -1,4 +1,5 @@
 ---
 Autor: Hesse
-Estado: comenzado
+Estado: terminado
+Tipo: Novela
 ---

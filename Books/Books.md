@@ -40,8 +40,10 @@ columns:
     position: 2
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
     width: 177
+    isSorted: true
+    isSortedDesc: false
     options:
       - { label: "Mario Vargas Llosa", value: "Mario Vargas Llosa", color: "hsl(177, 95%, 90%)"}
       - { label: "Imanuel Kant", value: "Imanuel Kant", color: "hsl(216, 95%, 90%)"}
@@ -87,6 +89,8 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 140
+    isSorted: false
+    isSortedDesc: true
     options:
       - { label: "terminado", value: "terminado", color: "hsl(353, 95%, 90%)"}
       - { label: "No comenzado", value: "No comenzado", color: "hsl(329, 95%, 90%)"}
@@ -114,6 +118,7 @@ columns:
       - { label: "Novela", value: "Novela", color: "hsl(213, 95%, 90%)"}
       - { label: "Ensayo", value: "Ensayo", color: "hsl(355, 95%, 90%)"}
       - { label: "Cuento", value: "Cuento", color: "hsl(323, 95%, 90%)"}
+      - { label: "Poemas", value: "Poemas", color: "hsl(171, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

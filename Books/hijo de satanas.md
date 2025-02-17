@@ -1,3 +1,4 @@
 ---
 Autor: Bukowski
+Tipo: Novela
 ---
