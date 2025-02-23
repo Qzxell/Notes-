@@ -37,7 +37,7 @@ columns:
     key: Autor
     id: Autor
     label: Autor
-    position: 2
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -78,39 +78,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Estado:
-    input: select
-    accessorKey: Estado
-    key: Estado
-    id: Estado
-    label: Estado
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 140
-    isSorted: false
-    isSortedDesc: true
-    options:
-      - { label: "terminado", value: "terminado", color: "hsl(353, 95%, 90%)"}
-      - { label: "No comenzado", value: "No comenzado", color: "hsl(329, 95%, 90%)"}
-      - { label: "comenzado", value: "comenzado", color: "hsl(193, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Tipo:
     input: select
     accessorKey: Tipo
     key: Tipo
     id: Tipo
     label: Tipo
-    position: 4
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -134,7 +108,7 @@ columns:
     key: Comentarios
     id: Comentarios
     label: Comentarios
-    position: 5
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -153,7 +127,7 @@ columns:
     key: Puntuacion
     id: Puntuacion
     label: Puntuacion
-    position: 6
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -171,11 +145,13 @@ columns:
     accessorKey: Comprado?
     key: Comprado?
     id: Comprado?
-    label: Comprado?
-    position: 7
+    label: Completado
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -191,35 +167,10 @@ columns:
     key: Prioridad
     id: Prioridad
     label: Prioridad
-    position: 100
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Editorial:
-    input: select
-    accessorKey: Editorial
-    key: Editorial
-    id: Editorial
-    label: Editorial
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 136
-    options:
-      - { label: "Alfaguara", value: "Alfaguara", color: "hsl(135, 95%, 90%)"}
-      - { label: "Gredos", value: "Gredos", color: "hsl(294, 95%, 90%)"}
-      - { label: "Editorial Textos", value: "Editorial Textos", color: "hsl(35, 95%, 90%)"}
-      - { label: "Null", value: "Null", color: "hsl(227, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

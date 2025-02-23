@@ -9,6 +9,5 @@
 - Alertas -> idealizacion -> mal habito(rutina) -> Recompeza
 - Que alerta(se;ales) lo que te hace caer en el mal habito
 - Cual es la recompenza? -> cambiar la recompenza
-mastur
 - se;ales -> puertas de su cuartos cerrandose
  
