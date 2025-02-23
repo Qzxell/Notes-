@@ -37,7 +37,7 @@ columns:
     key: Autor
     id: Autor
     label: Autor
-    position: 7
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: 1
@@ -69,6 +69,7 @@ columns:
       - { label: "Haruki Murakami", value: "Haruki Murakami", color: "hsl(161, 95%, 90%)"}
       - { label: "Albert Camus", value: "Albert Camus", color: "hsl(39, 95%, 90%)"}
       - { label: "Julio Verne", value: "Julio Verne", color: "hsl(248, 95%, 90%)"}
+      - { label: "Gustabo Flaubert", value: "Gustabo Flaubert", color: "hsl(170, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -84,7 +85,7 @@ columns:
     key: Tipo
     id: Tipo
     label: Tipo
-    position: 10
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -108,7 +109,7 @@ columns:
     key: Comentarios
     id: Comentarios
     label: Comentarios
-    position: 4
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -127,7 +128,7 @@ columns:
     key: Puntuacion
     id: Puntuacion
     label: Puntuacion
-    position: 3
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -146,31 +147,12 @@ columns:
     key: Comprado?
     id: Comprado?
     label: Completado
-    position: 6
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
     isSorted: false
     isSortedDesc: false
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Prioridad:
-    input: number
-    accessorKey: Prioridad
-    key: Prioridad
-    id: Prioridad
-    label: Prioridad
-    position: 8
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
