@@ -43,6 +43,8 @@
 - [x] Indigno de ser humano - Osamu Dazai 3
 - [ ] Miedo - Stefan zweing 2
 - [x] kafka en la orilla - Haruki Murakami
+- [ ] seda - Alessandro barico
+- [ ] la insoportable levedad del ser - Milan cundera
 
 
 
