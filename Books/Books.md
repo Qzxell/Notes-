@@ -70,6 +70,7 @@ columns:
       - { label: "Albert Camus", value: "Albert Camus", color: "hsl(39, 95%, 90%)"}
       - { label: "Julio Verne", value: "Julio Verne", color: "hsl(248, 95%, 90%)"}
       - { label: "Gustabo Flaubert", value: "Gustabo Flaubert", color: "hsl(170, 95%, 90%)"}
+      - { label: "Maria Rilke", value: "Maria Rilke", color: "hsl(279, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
