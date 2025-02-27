@@ -45,6 +45,7 @@
 - [x] kafka en la orilla - Haruki Murakami
 - [ ] seda - Alessandro barico
 - [ ] la insoportable levedad del ser - Milan cundera
+- [ ] Al revés y al derecho - Albert camus
 
 
 
