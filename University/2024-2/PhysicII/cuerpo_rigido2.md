@@ -51,8 +51,8 @@ $$\sum \tau_{z} = I_{cm} \alpha_z$$
 $$\vec{F} = \dfrac{d\vec{p}}{dt} = m\dfrac{d\vec{v}}{dt}$$
 - Si esta fuerza es capaz de producir rotacion respecto algun eje  o entonces:
 $$\vec{\tau}^{o} = \vec{r} \times \vec{F} = \vec{r}\times\dfrac{d\vec{p}}{dt}$$
-- Si analizamos la rapidez de cambio del momento angulas
-$$\dfrac{d\vec{L}}{dt} = \dfrac{d}{dt}(\vec{r}\times\vec{p}) = \vec{r}\times\vec{p}=\vec{\tau}^o$$
+- Si analizamos la rapidez de cambio del momento angular
+$$\dfrac{d\vec{L}}{dt} = \dfrac{d}{dt}(\vec{r}\times\vec{p}) = \vec{r}\times\vec{F}=\vec{\tau}^o$$
 >[!note]
 > Entonces la rapidez de cambio del momento angular de una particula es igual al torque aplicado sobre ella
 
